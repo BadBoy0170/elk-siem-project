@@ -6,22 +6,6 @@ A Security Information and Event Management (SIEM) system built with Elasticsear
 ![ELK Version](https://img.shields.io/badge/ELK-8.11.0-blue)
 ![Docker](https://img.shields.io/badge/docker-compose-blue)
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dashboard](#dashboard)
-- [Security Detection Rules](#security-detection-rules)
-- [Project Structure](#project-structure)
-- [Troubleshooting](#troubleshooting)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🎯 Overview
 
 This project demonstrates a functional SIEM system capable of:
